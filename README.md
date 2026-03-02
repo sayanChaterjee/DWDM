@@ -1,4 +1,3 @@
-# https://github.com/sayanChaterjee/DWDM
 
 # Probabilistic Apriori Algorithm Implementation
 
